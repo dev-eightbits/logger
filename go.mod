@@ -1,4 +1,4 @@
-module github.com/8b/logger
+module github.com/dev-eightbits/logger
 
 go 1.17
 
